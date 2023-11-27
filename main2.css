@@ -1,0 +1,173 @@
+h1{color:rgb(173, 8, 8)}
+h1{font-size: xx-large;}
+h1{text-align: center;}
+p{color: rgb(130, 0, 0);}
+p{font-size: xx-large;}
+p{text-align: center;}
+p{text-decoration: overline;}
+h1{text-decoration: dotted;}
+body{background-image:url("https://images.squarespace-cdn.com/content/v1/567e05c4e0327cd48ad079f3/1549393257709-HGPXA816QFP66ZAJCONR/NETFLIX_FORM_01_wes.jpg")}
+h2{color: red;
+font-size: x-large;
+text-align: center;}
+p2{color: red;
+text-align: center;
+margin-left: 700px;
+margin-top: 200px;}
+  
+  
+  
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+   
+
+}
+
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.buttons{
+   border:rgb(106, 9, 197);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.flex2{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.buttons2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.links2{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.flex3{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.buttons3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.links3{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.flex4{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.buttons4 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.links4{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.flex5{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.buttons5 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.links5{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.flex6{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.buttons6 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.links6{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
