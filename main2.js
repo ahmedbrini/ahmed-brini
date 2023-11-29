@@ -176,7 +176,7 @@ button.onclick=function(){
 img.src="https://fr.web.img3.acsta.net/pictures/17/05/03/09/11/348326.jpg" }
 })
 
-
+//it is not a big deal eeeeeeeeeeeeeeeeeasyyyyyyyyyyyyyyyyyy -__- 
 function generateID() {
     var count = 0;
     return function () {
@@ -195,4 +195,4 @@ function generateID() {
   }
   var time1=time(new Date())
 
-  $("p").text(time1.id)
+  $("p2").text(time1.id)
