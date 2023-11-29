@@ -177,3 +177,22 @@ img.src="https://fr.web.img3.acsta.net/pictures/17/05/03/09/11/348326.jpg" }
 })
 
 
+function generateID() {
+    var count = 0;
+    return function () {
+      return count++;
+    };
+  }
+  var id = generateID();
+  var idtime=id()
+  
+  function time(idtime){
+    var time={
+      id:idtime,
+      
+    }
+    return time
+  }
+  var time1=time(new Date())
+
+  $("p").text(time1.id)
